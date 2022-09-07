@@ -1,2 +1,3 @@
 PORT = 5000
-MONGO_URL=""
+MONGO_URL = "mongodb+srv://chat:csicYXX0zlSj9pmT@chatcluster.hprlubp.mongodb.net/?retryWrites=true&w=majority"
+
